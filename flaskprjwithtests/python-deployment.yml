@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: python-container
-        image: dtcdevops/devopsrepo:15
+        image: dtcdevops/devopsrepo:16
         ports:
         - containerPort: 5000 
